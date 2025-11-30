@@ -424,11 +424,11 @@ footer img {
     .segundo {
         background-image: url(./figuras/Group.png);
         width: 100%;
-        height: 70vh;
+        height: 80vh;
     }
     .fecha img{
         margin:  0 0 10px 0;
-        max-width: 96vw;
+        max-width: 70vw;
     }
     .galeria {
         width: 100%;
