@@ -312,6 +312,11 @@ width: 100%;
 .segundo .fotologo {
     width: 240px;
 }
+.segundo h3 {
+     padding: 6px 40px;
+    max-width: 500px;
+    font-size: 1.4Rem;
+}
 .segundo p {
     padding: 6px 40px;
     max-width: 500px;
@@ -431,7 +436,7 @@ footer img {
     .segundo {
         background-image: url(./figuras/Group.png);
         width: 100%;
-        height: 96vh;
+        height: 100vh;
     }
     .fecha img{
         margin:  0 0 0px 0;
